@@ -13,6 +13,17 @@ int main()
 	cin >> b;
 	cout << "Chon phep toan (+,-) ";
 	cin >> phepToan;
+
+// hieu
+	int hieu(a, b);
+	cout<<"hieu là" +hieu;
+	// tong
+	int tong(a,b);
+	cout<<"tong la:" +tong;
+	// tich
+	int tich(a,b);
+	cout<<"tich là:"+tich;
+	
 	system("pause");
 	return 0;
 }
