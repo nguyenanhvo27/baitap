@@ -16,13 +16,13 @@ int main()
 
 // hieu
 	int hieu(a, b);
-	cout<<"hieu là" +hieu;
+	cout<<"ket qua hieu là" +hieu;
 	// tong
 	int tong(a,b);
-	cout<<"tong la:" +tong;
+	cout<<"ket qua tong la:" +tong;
 	// tich
 	int tich(a,b);
-	cout<<"tich là:"+tich;
+	cout<<"ket qua tich là:"+tich;
 	
 	system("pause");
 	return 0;
